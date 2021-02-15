@@ -19,7 +19,7 @@
 {-# LANGUAGE TypeFamilies        #-}
 {-# LANGUAGE TypeOperators       #-}
 
-{-# OPTIONS_GHC -Wall -Werror -fno-warn-orphans #-}
+{-# OPTIONS_GHC -Wall -Werror -fno-warn-orphans -Wno-star-is-type #-}
 
 module Data.SBV.Core.Model (
     Mergeable(..), Equality(..), EqSymbolic(..), OrdSymbolic(..), SDivisible(..), Uninterpreted(..), Metric(..), minimize, maximize, assertWithPenalty, SIntegral, SFiniteBits(..)

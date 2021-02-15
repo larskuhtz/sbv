@@ -25,7 +25,7 @@
 {-# LANGUAGE GeneralizedNewtypeDeriving #-}
 {-# LANGUAGE KindSignatures             #-}
 
-{-# OPTIONS_GHC -Wall -Werror #-}
+{-# OPTIONS_GHC -Wall -Werror -Wno-star-is-type #-}
 
 module Documentation.SBV.Examples.Transformers.SymbolicEval where
 
