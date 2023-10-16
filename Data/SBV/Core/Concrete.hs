@@ -13,8 +13,6 @@
 {-# LANGUAGE TypeApplications    #-}
 {-# LANGUAGE Rank2Types          #-}
 
-{-# OPTIONS_GHC -Wall -Werror #-}
-
 module Data.SBV.Core.Concrete
   ( module Data.SBV.Core.Concrete
   ) where

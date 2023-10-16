@@ -11,8 +11,6 @@
 -- and diagonals is the same.
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
-
 module Documentation.SBV.Examples.Puzzles.MagicSquare where
 
 import Data.List (genericLength, transpose)

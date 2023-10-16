@@ -13,8 +13,6 @@
 {-# LANGUAGE ScopedTypeVariables #-}
 {-# LANGUAGE ViewPatterns        #-}
 
-{-# OPTIONS_GHC -Wall -Werror #-}
-
 module Data.SBV.SMT.SMTLib2(cvt, cvtInc) where
 
 import Data.Bits  (bit)
@@ -372,7 +370,7 @@ declSort :: (String, Maybe [String]) -> [String]
 declSort (s, _)
   | s == "RoundingMode" -- built-in-sort; so don't declare.
   = []
-declSort (s, Nothing) = [ "(declare-sort " ++ s ++ " 0)  ; N.B. Uninterpreted sort." 
+declSort (s, Nothing) = [ "(declare-sort " ++ s ++ " 0)  ; N.B. Uninterpreted sort."
                         , "(declare-fun " ++ s ++ "_witness () " ++ s ++ ")"
                         ]
 declSort (s, Just fs) = [ "(declare-datatypes ((" ++ s ++ " 0)) ((" ++ unwords (map (\c -> "(" ++ c ++ ")") fs) ++ ")))"

@@ -27,7 +27,7 @@
 {-# LANGUAGE DataKinds        #-}
 {-# LANGUAGE ParallelListComp #-}
 
-{-# OPTIONS_GHC -Wall -Werror -Wno-incomplete-uni-patterns #-}
+{-# OPTIONS_GHC -Wno-incomplete-uni-patterns #-}
 
 module Documentation.SBV.Examples.Crypto.AES where
 
@@ -56,7 +56,7 @@ type GF28 = SWord 8
 
 -- | Multiplication in GF(2^8). This is simple polynomial multiplication, followed
 -- by the irreducible polynomial @x^8+x^4+x^3+x^1+1@. We simply use the 'pMult'
--- function exported by SBV to do the operation. 
+-- function exported by SBV to do the operation.
 gf28Mult :: GF28 -> GF28 -> GF28
 gf28Mult x y = pMult (x, y, [8, 4, 3, 1, 0])
 
@@ -449,7 +449,7 @@ t256Dec = aesDecrypt ct ks
 -- @
 --   quickCheck aes128IsCorrect
 -- @
--- 
+--
 -- and get some degree of confidence in our code. Similar predicates can be easily constructed for 192, and
 -- 256 bit cases as well.
 aes128IsCorrect :: (SWord 32, SWord 32, SWord 32, SWord 32)  -- ^ plain-text words
