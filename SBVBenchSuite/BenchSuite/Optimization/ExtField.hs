@@ -10,7 +10,6 @@
 -- Bench suite for Documentation.SBV.Examples.Optimization.ExtField
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module BenchSuite.Optimization.ExtField(benchmarks) where
 

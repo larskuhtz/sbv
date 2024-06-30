@@ -19,7 +19,6 @@
 {-# LANGUAGE TypeApplications           #-}
 {-# LANGUAGE ViewPatterns               #-}
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module Data.SBV.SMT.SMT (
        -- * Model extraction

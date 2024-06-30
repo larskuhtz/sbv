@@ -11,7 +11,6 @@
 
 {-# LANGUAGE ConstraintKinds #-}
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module Data.SBV.Control (
      -- $queryIntro

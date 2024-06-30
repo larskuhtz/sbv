@@ -10,7 +10,6 @@
 -- Bench suite for Documentation.SBV.Examples.Misc.Tuple
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module BenchSuite.Misc.Tuple(benchmarks) where
 

@@ -10,7 +10,6 @@
 -- Bench suite for Documentation.SBV.Examples.Uninterpreted.Function
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module BenchSuite.Uninterpreted.Function(benchmarks) where
 

@@ -9,7 +9,6 @@
 -- Some recursive definitions.
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module TestSuite.Basics.Recursive(tests) where
 

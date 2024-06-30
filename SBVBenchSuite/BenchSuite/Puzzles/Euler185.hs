@@ -10,7 +10,6 @@
 -- Bench suite for Documentation.SBV.Examples.Puzzles.Euler185
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module BenchSuite.Puzzles.Euler185(benchmarks) where
 

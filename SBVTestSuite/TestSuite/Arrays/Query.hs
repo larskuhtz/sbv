@@ -11,7 +11,6 @@
 
 {-# LANGUAGE ScopedTypeVariables #-}
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module TestSuite.Arrays.Query(tests) where
 

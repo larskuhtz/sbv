@@ -10,7 +10,6 @@
 -- Bench suite for Documentation.SBV.Examples.Puzzles.NQueens
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module BenchSuite.Puzzles.NQueens(benchmarks) where
 

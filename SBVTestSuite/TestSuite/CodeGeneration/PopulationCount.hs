@@ -9,7 +9,6 @@
 -- Test suite for Documentation.SBV.Examples.CodeGeneration.PopulationCount
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module TestSuite.CodeGeneration.PopulationCount(tests) where
 

@@ -29,7 +29,6 @@
 
 {-# LANGUAGE ScopedTypeVariables #-}
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module Documentation.SBV.Examples.Uninterpreted.AUF where
 

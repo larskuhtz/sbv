@@ -19,7 +19,6 @@
 {-# LANGUAGE TypeOperators        #-}
 {-# LANGUAGE UndecidableInstances #-}
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module Data.SBV.Client.BaseIO where
 

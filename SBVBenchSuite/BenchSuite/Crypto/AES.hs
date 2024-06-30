@@ -10,7 +10,6 @@
 -- Bench suite for Documentation.SBV.Examples.Crypto.AES
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module BenchSuite.Crypto.AES(benchmarks) where
 

@@ -10,7 +10,6 @@
 --     <http://ai.googleblog.com/2006/06/extra-extra-read-all-about-it-nearly.html>
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module Documentation.SBV.Examples.BitPrecise.BrokenSearch where
 

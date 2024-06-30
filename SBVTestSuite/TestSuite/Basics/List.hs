@@ -12,7 +12,6 @@
 {-# LANGUAGE OverloadedLists     #-}
 {-# LANGUAGE ScopedTypeVariables #-}
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module TestSuite.Basics.List(tests)  where
 

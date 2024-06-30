@@ -12,7 +12,6 @@
 
 {-# LANGUAGE FlexibleContexts #-}
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module Documentation.SBV.Examples.BitPrecise.BitTricks where
 

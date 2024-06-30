@@ -12,7 +12,6 @@
 {-# LANGUAGE DataKinds           #-}
 {-# LANGUAGE ScopedTypeVariables #-}
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module TestSuite.Basics.ArbFloats(tests) where
 

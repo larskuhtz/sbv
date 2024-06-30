@@ -10,7 +10,6 @@
 -- Bench suite for Documentation.SBV.Examples.Puzzles.Birthday
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module BenchSuite.Puzzles.Birthday(benchmarks) where
 

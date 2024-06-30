@@ -10,7 +10,6 @@
 -- Bench suite for Documentation.SBV.Examples.Queries.UnsatCore
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module BenchSuite.Queries.UnsatCore(benchmarks) where
 

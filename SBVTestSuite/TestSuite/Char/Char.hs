@@ -11,7 +11,6 @@
 
 {-# LANGUAGE ScopedTypeVariables #-}
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module TestSuite.Char.Char(tests) where
 

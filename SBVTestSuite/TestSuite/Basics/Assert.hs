@@ -11,7 +11,6 @@
 
 {-# LANGUAGE FlexibleContexts #-}
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module TestSuite.Basics.Assert(tests) where
 

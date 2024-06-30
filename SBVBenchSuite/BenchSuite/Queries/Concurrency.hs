@@ -10,7 +10,6 @@
 -- Bench suite for Documentation.SBV.Examples.Queries.Concurrency
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module BenchSuite.Queries.Concurrency(benchmarks) where
 

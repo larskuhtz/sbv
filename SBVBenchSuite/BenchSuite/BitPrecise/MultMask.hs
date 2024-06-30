@@ -10,7 +10,6 @@
 -- Bench suite for Documentation.SBV.Examples.BitPrecise.MultMask
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module BenchSuite.BitPrecise.MultMask(benchmarks) where
 

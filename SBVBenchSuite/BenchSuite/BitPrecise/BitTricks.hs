@@ -10,7 +10,6 @@
 -- Bench suite for Documentation.SBV.Examples.BitPrecise.BitTricks
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module BenchSuite.BitPrecise.BitTricks(benchmarks) where
 

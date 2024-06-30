@@ -9,7 +9,6 @@
 -- Code-generation from SBV programs.
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module Data.SBV.Tools.CodeGen (
 

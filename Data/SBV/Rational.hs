@@ -9,7 +9,6 @@
 -- Symbolic rationals, corresponds to Haskell's 'Rational' type
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module Data.SBV.Rational (
     -- * Constructing rationals

@@ -11,7 +11,6 @@
 
 {-# LANGUAGE Rank2Types #-}
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module TestSuite.QuickCheck.QC (tests) where
 

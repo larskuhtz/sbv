@@ -10,7 +10,6 @@
 -- Bench suite for Documentation.SBV.Examples.Uninterpreted.Sort
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module BenchSuite.Uninterpreted.Sort(benchmarks) where
 

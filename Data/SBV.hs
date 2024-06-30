@@ -143,7 +143,6 @@
 {-# LANGUAGE TypeFamilies         #-}
 {-# LANGUAGE TypeOperators        #-}
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module Data.SBV (
   -- $progIntro

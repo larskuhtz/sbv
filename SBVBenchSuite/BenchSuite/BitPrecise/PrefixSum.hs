@@ -10,7 +10,6 @@
 -- Bench suite for Documentation.SBV.Examples.BitPrecise.PrefixSum
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module BenchSuite.BitPrecise.PrefixSum(benchmarks) where
 

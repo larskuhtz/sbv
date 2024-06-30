@@ -10,7 +10,6 @@
 -- Bench suite for Documentation.SBV.Examples.CodeGeneration.PopulationCount
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module BenchSuite.CodeGeneration.PopulationCount(benchmarks) where
 

@@ -10,7 +10,6 @@
 -- Bench suite for Documentation.SBV.Examples.Optimization.Production
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module BenchSuite.Optimization.Production(benchmarks) where
 

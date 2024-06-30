@@ -11,7 +11,6 @@
 
 {-# LANGUAGE ScopedTypeVariables #-}
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module Data.SBV.Provers.MathSAT(mathSAT) where
 

@@ -10,7 +10,6 @@
 -- Bench suite for Documentation.SBV.Examples.Misc.ModelExtract
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module BenchSuite.Misc.ModelExtract(benchmarks) where
 

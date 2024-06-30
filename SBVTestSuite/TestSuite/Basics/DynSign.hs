@@ -9,7 +9,6 @@
 -- Test case for <http://github.com/GaloisInc/cryptol/issues/566>
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module TestSuite.Basics.DynSign(tests) where
 

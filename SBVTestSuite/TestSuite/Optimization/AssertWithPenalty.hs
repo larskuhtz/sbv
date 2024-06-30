@@ -9,7 +9,6 @@
 -- Test suite for optimization routines, soft assertions
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module TestSuite.Optimization.AssertWithPenalty(tests) where
 

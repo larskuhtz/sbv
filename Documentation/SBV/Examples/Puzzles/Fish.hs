@@ -27,7 +27,6 @@
 -- Who owns the fish?
 ------------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 {-# LANGUAGE DeriveAnyClass      #-}
 {-# LANGUAGE DeriveDataTypeable  #-}

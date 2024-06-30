@@ -18,7 +18,6 @@
 {-# LANGUAGE NamedFieldPuns         #-}
 {-# LANGUAGE ScopedTypeVariables    #-}
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module Data.SBV.Tools.WeakestPreconditions (
         -- * Programs and statements

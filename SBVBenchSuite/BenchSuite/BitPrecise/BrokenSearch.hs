@@ -10,7 +10,6 @@
 -- Bench suite for Documentation.SBV.Examples.BitPrecise.BrokenSearch
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module BenchSuite.BitPrecise.BrokenSearch(benchmarks) where
 

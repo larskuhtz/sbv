@@ -9,7 +9,6 @@
 -- Test-suite for generating tests
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module TestSuite.GenTest.GenTests(tests) where
 

@@ -10,7 +10,6 @@
 -- More generalized alternative to @Data.SBV.Control@ for advanced client use
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module Data.SBV.Trans.Control (
 

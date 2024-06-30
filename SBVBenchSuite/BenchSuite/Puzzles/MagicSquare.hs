@@ -10,7 +10,6 @@
 -- Bench suite for Documentation.SBV.Examples.Puzzles.MagicSquare
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module BenchSuite.Puzzles.MagicSquare(benchmarks) where
 

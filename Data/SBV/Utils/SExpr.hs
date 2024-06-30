@@ -11,7 +11,6 @@
 
 {-# LANGUAGE BangPatterns #-}
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module Data.SBV.Utils.SExpr (SExpr(..), parenDeficit, parseSExpr, parseSExprFunction) where
 

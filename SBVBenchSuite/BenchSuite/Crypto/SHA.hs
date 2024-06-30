@@ -10,7 +10,6 @@
 -- Bench suite for Documentation.SBV.Examples.Crypto.SHA
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module BenchSuite.Crypto.SHA(benchmarks) where
 

@@ -10,7 +10,6 @@
 -- Bench suite for Documentation.SBV.Examples.Misc.Auxiliary
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module BenchSuite.Misc.Auxiliary(benchmarks) where
 

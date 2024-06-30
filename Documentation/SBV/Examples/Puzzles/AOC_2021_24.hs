@@ -23,7 +23,6 @@
 {-# LANGUAGE NamedFieldPuns   #-}
 {-# LANGUAGE NegativeLiterals #-}
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module Documentation.SBV.Examples.Puzzles.AOC_2021_24 where
 

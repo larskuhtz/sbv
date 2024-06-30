@@ -10,7 +10,6 @@
 -- Bench suite for Documentation.SBV.Examples.Puzzles.LadyAndTigers
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module BenchSuite.Puzzles.LadyAndTigers(benchmarks) where
 

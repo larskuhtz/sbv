@@ -18,7 +18,6 @@
 {-# LANGUAGE TypeOperators        #-}
 {-# LANGUAGE UndecidableInstances #-}
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module Data.SBV.Core.Sized (
         -- * Type-sized unsigned bit-vectors

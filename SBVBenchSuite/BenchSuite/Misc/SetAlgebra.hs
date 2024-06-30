@@ -10,7 +10,6 @@
 -- Bench suite for Documentation.SBV.Examples.Misc.SetAlgebra
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 {-# LANGUAGE ScopedTypeVariables #-}
 

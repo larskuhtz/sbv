@@ -10,7 +10,6 @@
 -- Bench suite for Documentation.SBV.Examples.CodeGeneration.CRC_USB5
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module BenchSuite.CodeGeneration.CRC_USB5(benchmarks) where
 

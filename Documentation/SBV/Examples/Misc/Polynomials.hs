@@ -22,7 +22,6 @@
 -- Note that addition in GF(2^n) is simply `xor`, so no custom function is provided.
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module Documentation.SBV.Examples.Misc.Polynomials where
 

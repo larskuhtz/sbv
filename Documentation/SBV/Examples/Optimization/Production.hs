@@ -9,7 +9,6 @@
 -- Solves a simple linear optimization problem
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module Documentation.SBV.Examples.Optimization.Production where
 

@@ -10,7 +10,6 @@
 -- Bench suite for Documentation.SBV.Examples.Queries.AllSat
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module BenchSuite.Queries.AllSat(benchmarks) where
 

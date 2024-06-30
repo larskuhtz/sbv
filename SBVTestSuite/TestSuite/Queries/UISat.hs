@@ -10,7 +10,6 @@
 -----------------------------------------------------------------------------
 {-# LANGUAGE OverloadedStrings #-}
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module TestSuite.Queries.UISat(tests)  where
 

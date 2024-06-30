@@ -9,7 +9,6 @@
 -- Some nonlinear tests, z3 and CVC5
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module TestSuite.Basics.Nonlinear (tests)  where
 

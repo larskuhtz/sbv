@@ -10,7 +10,6 @@
 -- Bench suite for Documentation.SBV.Examples.BitPrecise.Legato
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module BenchSuite.BitPrecise.Legato(benchmarks) where
 

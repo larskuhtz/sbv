@@ -9,7 +9,6 @@
 -- The connection to the Bitwuzla SMT solver
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module Data.SBV.Provers.Bitwuzla(bitwuzla) where
 

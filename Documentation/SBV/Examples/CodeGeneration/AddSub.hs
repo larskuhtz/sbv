@@ -9,7 +9,6 @@
 -- Simple code generation example.
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module Documentation.SBV.Examples.CodeGeneration.AddSub where
 

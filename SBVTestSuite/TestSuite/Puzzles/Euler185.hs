@@ -9,7 +9,6 @@
 -- Test suite for Documentation.SBV.Examples.Puzzles.Euler185
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module TestSuite.Puzzles.Euler185(tests) where
 

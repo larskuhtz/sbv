@@ -11,7 +11,6 @@
 
 {-# LANGUAGE OverloadedStrings #-}
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module TestSuite.Basics.String(tests)  where
 

@@ -10,7 +10,6 @@
 -- Bench suite for Documentation.SBV.Examples.Lists.Fibonacci
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module BenchSuite.Lists.Fibonacci(benchmarks) where
 

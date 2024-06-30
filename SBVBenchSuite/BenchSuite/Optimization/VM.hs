@@ -10,7 +10,6 @@
 -- Bench suite for Documentation.SBV.Examples.Optimization.VM
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module BenchSuite.Optimization.VM(benchmarks) where
 

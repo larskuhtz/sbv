@@ -9,7 +9,6 @@
 -- Test suite for Documentation.SBV.Examples.Puzzles.DogCatMouse
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module TestSuite.Puzzles.DogCatMouse(tests) where
 

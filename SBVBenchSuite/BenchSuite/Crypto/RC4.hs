@@ -10,7 +10,6 @@
 -- Bench suite for Documentation.SBV.Examples.Crypto.RC4
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module BenchSuite.Crypto.RC4(benchmarks) where
 

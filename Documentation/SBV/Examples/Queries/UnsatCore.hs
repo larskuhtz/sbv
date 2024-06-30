@@ -9,7 +9,6 @@
 -- Demonstrates extraction of unsat-cores via queries.
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module Documentation.SBV.Examples.Queries.UnsatCore where
 

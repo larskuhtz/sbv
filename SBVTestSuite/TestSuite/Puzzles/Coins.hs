@@ -9,7 +9,6 @@
 -- Test suite for Documentation.SBV.Examples.Puzzles.Coins
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module TestSuite.Puzzles.Coins(tests) where
 

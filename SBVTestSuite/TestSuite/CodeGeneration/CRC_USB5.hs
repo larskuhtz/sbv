@@ -9,7 +9,6 @@
 -- Test suite for Documentation.SBV.Examples.CodeGeneration.CRC_USB5
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module TestSuite.CodeGeneration.CRC_USB5(tests) where
 

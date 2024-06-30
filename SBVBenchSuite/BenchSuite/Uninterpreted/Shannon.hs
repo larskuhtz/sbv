@@ -10,7 +10,6 @@
 -- Bench suite for Documentation.SBV.Examples.Uninterpreted.Shannon
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 {-# LANGUAGE ScopedTypeVariables #-}
 
 module BenchSuite.Uninterpreted.Shannon(benchmarks) where

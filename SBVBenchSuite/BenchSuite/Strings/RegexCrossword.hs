@@ -10,7 +10,6 @@
 -- Bench suite for Documentation.SBV.Examples.Strings.RegexCrossword
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module BenchSuite.Strings.RegexCrossword(benchmarks) where
 

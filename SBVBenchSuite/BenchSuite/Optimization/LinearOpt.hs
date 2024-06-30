@@ -10,7 +10,6 @@
 -- Bench suite for Documentation.SBV.Examples.Optimization.LinearOpt
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module BenchSuite.Optimization.LinearOpt(benchmarks) where
 

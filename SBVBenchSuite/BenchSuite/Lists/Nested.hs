@@ -10,7 +10,6 @@
 -- Bench suite for Documentation.SBV.Examples.Lists.Nested
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module BenchSuite.Lists.Nested(benchmarks) where
 

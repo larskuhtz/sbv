@@ -9,7 +9,6 @@
 -- The encoding of the Flyspec example from the dReal web page
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module Documentation.SBV.Examples.DeltaSat.DeltaSat where
 

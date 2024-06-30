@@ -11,7 +11,6 @@
 -- for recursive definitions.
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module Documentation.SBV.Examples.Misc.Definitions where
 

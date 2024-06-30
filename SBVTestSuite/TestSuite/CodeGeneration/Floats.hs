@@ -9,7 +9,6 @@
 -- Test-suite for generating floating-point related C code
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module TestSuite.CodeGeneration.Floats(tests) where
 

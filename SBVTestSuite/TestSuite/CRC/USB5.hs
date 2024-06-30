@@ -9,7 +9,6 @@
 -- Test suite for Examples.CRC.USB5
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module TestSuite.CRC.USB5(tests) where
 

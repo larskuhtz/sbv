@@ -9,7 +9,6 @@
 -- Types related to interactive queries
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module Data.SBV.Control.Types (
        CheckSatResult(..)

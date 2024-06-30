@@ -9,7 +9,6 @@
 -- Test suite for Examples.Puzzles.Temperature
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module TestSuite.Puzzles.Temperature(tests) where
 

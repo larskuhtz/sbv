@@ -10,7 +10,6 @@
 -- Bench suite for Documentation.SBV.Examples.Uninterpreted.UISortAllSat
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module BenchSuite.Uninterpreted.UISortAllSat(benchmarks) where
 

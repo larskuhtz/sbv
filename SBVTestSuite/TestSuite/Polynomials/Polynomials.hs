@@ -9,7 +9,6 @@
 -- Test suite for Documentation.SBV.Examples.Polynomials.Polynomials
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module TestSuite.Polynomials.Polynomials(tests) where
 

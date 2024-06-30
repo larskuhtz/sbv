@@ -15,7 +15,6 @@
 
 {-# LANGUAGE DataKinds #-}
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module Documentation.SBV.Examples.Existentials.CRCPolynomial where
 

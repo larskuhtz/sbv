@@ -9,7 +9,6 @@
 -- Test suite for Documentation.SBV.Examples.Existentials.CRCPolynomial
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module TestSuite.Existentials.CRCPolynomial(tests) where
 

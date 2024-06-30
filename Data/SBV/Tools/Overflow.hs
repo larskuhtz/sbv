@@ -18,7 +18,6 @@
 {-# LANGUAGE TypeApplications     #-}
 {-# LANGUAGE UndecidableInstances #-}
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module Data.SBV.Tools.Overflow (
 

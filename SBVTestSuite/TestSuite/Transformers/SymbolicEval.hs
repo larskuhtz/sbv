@@ -9,7 +9,6 @@
 -- Test suite for Documentation.SBV.Examples.Transformers.SymbolicEval
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module TestSuite.Transformers.SymbolicEval(tests) where
 

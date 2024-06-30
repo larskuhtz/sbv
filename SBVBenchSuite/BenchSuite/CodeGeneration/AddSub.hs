@@ -10,7 +10,6 @@
 -- Bench suite for Documentation.SBV.Examples.CodeGeneration.AddSub
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module BenchSuite.CodeGeneration.AddSub(benchmarks) where
 

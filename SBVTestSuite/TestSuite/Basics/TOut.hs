@@ -9,7 +9,6 @@
 -- Test the basic timeout mechanism
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module TestSuite.Basics.TOut(tests)  where
 

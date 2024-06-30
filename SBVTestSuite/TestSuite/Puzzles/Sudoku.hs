@@ -9,7 +9,6 @@
 -- Test suite for Documentation.SBV.Examples.Puzzles.Sudoku
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module TestSuite.Puzzles.Sudoku(tests) where
 

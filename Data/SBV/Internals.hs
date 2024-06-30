@@ -21,7 +21,6 @@
 {-# LANGUAGE Rank2Types       #-}
 {-# LANGUAGE TypeOperators    #-}
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module Data.SBV.Internals (
   -- * Running symbolic programs /manually/

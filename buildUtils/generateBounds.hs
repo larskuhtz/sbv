@@ -4,7 +4,6 @@
 {-# LANGUAGE TypeApplications    #-}
 {-# LANGUAGE TypeFamilies        #-}
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module Main where
 

@@ -15,7 +15,6 @@
 {-# LANGUAGE StandaloneDeriving  #-}
 {-# LANGUAGE TemplateHaskell     #-}
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module TestSuite.Uninterpreted.Sort(tests) where
 

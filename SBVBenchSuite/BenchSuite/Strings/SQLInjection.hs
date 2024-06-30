@@ -10,7 +10,6 @@
 -- Bench suite for Documentation.SBV.Examples.Strings.SQLInjection
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module BenchSuite.Strings.SQLInjection(benchmarks) where
 

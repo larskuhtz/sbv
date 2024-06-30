@@ -10,7 +10,6 @@
 -- Bench suite for Documentation.SBV.Examples.Uninterpreted.Multiply
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 {-# LANGUAGE ScopedTypeVariables #-}
 
 module BenchSuite.Uninterpreted.Multiply(benchmarks) where

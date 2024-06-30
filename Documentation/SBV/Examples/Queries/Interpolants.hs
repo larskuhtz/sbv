@@ -14,7 +14,6 @@
 -- to demonstrate the usage.
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module Documentation.SBV.Examples.Queries.Interpolants where
 

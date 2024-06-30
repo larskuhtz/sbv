@@ -10,7 +10,6 @@
 -- More generalized alternative to @Data.SBV@ for advanced client use
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module Data.SBV.Trans (
   -- * Symbolic types

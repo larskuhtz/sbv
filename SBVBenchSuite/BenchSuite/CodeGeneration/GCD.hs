@@ -10,7 +10,6 @@
 -- Bench suite for Documentation.SBV.Examples.CodeGeneration.GCD
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module BenchSuite.CodeGeneration.GCD(benchmarks) where
 

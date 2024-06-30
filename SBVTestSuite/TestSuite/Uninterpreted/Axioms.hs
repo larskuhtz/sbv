@@ -14,7 +14,6 @@
 {-# LANGUAGE StandaloneDeriving #-}
 {-# LANGUAGE TemplateHaskell    #-}
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module TestSuite.Uninterpreted.Axioms(tests) where
 

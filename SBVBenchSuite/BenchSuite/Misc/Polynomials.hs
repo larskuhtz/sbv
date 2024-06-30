@@ -10,7 +10,6 @@
 -- Bench suite for Documentation.SBV.Examples.Misc.Polynomials
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module BenchSuite.Misc.Polynomials(benchmarks) where
 

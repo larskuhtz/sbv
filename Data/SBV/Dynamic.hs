@@ -12,7 +12,6 @@
 -- at your own risk!
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module Data.SBV.Dynamic
   (

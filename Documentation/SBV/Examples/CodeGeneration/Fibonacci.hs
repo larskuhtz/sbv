@@ -13,7 +13,6 @@
 -- and how to deal with such, eventually generating good C code.
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module Documentation.SBV.Examples.CodeGeneration.Fibonacci where
 

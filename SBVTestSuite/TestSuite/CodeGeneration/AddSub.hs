@@ -9,7 +9,6 @@
 -- Test suite for Documentation.SBV.Examples.CodeGeneration.AddSub
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module TestSuite.CodeGeneration.AddSub(tests) where
 

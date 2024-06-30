@@ -10,7 +10,6 @@
 -- http://github.com/LeventErkok/sbv/issues/323 for the genesis.
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module TestSuite.Basics.SmallShifts(tests) where
 

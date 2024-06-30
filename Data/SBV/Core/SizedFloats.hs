@@ -16,7 +16,6 @@
 {-# LANGUAGE TypeFamilies         #-}
 {-# LANGUAGE UndecidableInstances #-}
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module Data.SBV.Core.SizedFloats (
         -- * Type-sized floats

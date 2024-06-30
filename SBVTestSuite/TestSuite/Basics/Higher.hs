@@ -9,7 +9,6 @@
 -- Test suite for Examples.Basics.Higher
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module TestSuite.Basics.Higher(tests) where
 

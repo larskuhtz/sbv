@@ -9,7 +9,6 @@
 -- Test various incarnations of laziness in ite
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module TestSuite.Basics.IteTest(tests)  where
 

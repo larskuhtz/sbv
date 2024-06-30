@@ -9,7 +9,6 @@
 -- Test suite for Documentation.SBV.Examples.CodeGeneration.GCD
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module TestSuite.CodeGeneration.GCD(tests) where
 

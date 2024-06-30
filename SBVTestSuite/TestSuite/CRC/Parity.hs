@@ -9,7 +9,6 @@
 -- Test suite for Examples.CRC.Parity
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module TestSuite.CRC.Parity(tests) where
 

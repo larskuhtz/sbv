@@ -10,7 +10,6 @@
 -- Bench suite for Documentation.SBV.Examples.Queries.CaseSplit
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module BenchSuite.Queries.CaseSplit(benchmarks) where
 

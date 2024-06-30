@@ -10,7 +10,6 @@
 -- Bench suite for Documentation.SBV.Examples.Optimization.Enumerate
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module BenchSuite.Optimization.Enumerate(benchmarks) where
 

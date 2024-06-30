@@ -9,7 +9,6 @@
 -- Test suite for Documentation.SBV.Examples.Crypto.SHA
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module TestSuite.Crypto.SHA(tests) where
 

@@ -21,7 +21,6 @@
 --    At most only 1 statement is true. Where’s the Lady?
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module Documentation.SBV.Examples.Puzzles.LadyAndTigers where
 

@@ -9,7 +9,6 @@
 -- Test suite for Documentation.SBV.Examples.BitPrecise.MergeSort
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module TestSuite.BitPrecise.MergeSort(tests) where
 

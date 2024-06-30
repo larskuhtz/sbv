@@ -9,7 +9,6 @@
 -- Test suite for Documentation.SBV.Examples.CodeGeneration.Uninterpreted
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module TestSuite.CodeGeneration.Uninterpreted(tests) where
 

@@ -12,7 +12,6 @@
 
 {-# LANGUAGE OverloadedStrings #-}
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module BenchSuite.Misc.SoftConstrain(benchmarks) where
 

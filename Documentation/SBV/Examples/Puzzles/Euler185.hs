@@ -9,7 +9,6 @@
 -- A solution to Project Euler problem #185: <http://projecteuler.net/index.php?section=problems&id=185>
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 
 module Documentation.SBV.Examples.Puzzles.Euler185 where
 

@@ -10,7 +10,6 @@
 -- Bench suite for Documentation.SBV.Examples.Misc.Enumerate
 -----------------------------------------------------------------------------
 
-{-# OPTIONS_GHC -Wall -Werror #-}
 {-# LANGUAGE ScopedTypeVariables #-}
 
 module BenchSuite.Misc.Enumerate(benchmarks) where
